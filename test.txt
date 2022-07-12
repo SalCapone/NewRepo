@@ -1,3 +1,2 @@
 This is the master branch
 Master
-Added in the feature branch
