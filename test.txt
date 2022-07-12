@@ -1,4 +1,0 @@
-This is the master branch
-Master
-Don't merge this
-This should cause problems
